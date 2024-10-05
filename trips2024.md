@@ -67,7 +67,10 @@ island:
 
 <img src="Sept19_1.png" style="width:10.0%" alt="At Allilaguna" />
 
-We had chicetti for dinner by the canal at some steps?
+We had chicetti for dinner by the canal at some steps? Venice at night
+time is spectacular:
+
+<img src="Sept19_2.png" style="width:10.0%" alt="At Allilaguna" />
 
 ### 20 September, Venice:
 
