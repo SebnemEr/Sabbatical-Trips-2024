@@ -65,9 +65,9 @@ Me and Greg arrived in Venice. We left Leeds by bus to Manchester and
 flew to Venice. Took the Allilaguna line from the airport to the main
 island:
 
-![At Allilaguna](Sept19_1.png)
+<img src="Sept19_1.png" style="width:10.0%" alt="At Allilaguna" />
 
-We had chicetti?
+We had chicetti for dinner by the canal at some steps?
 
 ### 20 September, Venice:
 
