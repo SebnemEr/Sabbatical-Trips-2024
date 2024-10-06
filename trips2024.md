@@ -74,19 +74,34 @@ time is spectacular:
 
 ### 20 September, Venice:
 
-In the morning, me and Greg went for a run, hoped to come back and
-shower and rest but there was a vaporetto strike so we decided to go to
-the Academia, then it was high tide time (12:30 noon) which meant we had
-to go to St Mark’s Sq to see the water rising. Then since we were there,
-we might as well go the Biennale which is right there by the gardens.
-Quite the tiring day on our feet. 30k steps! We went to the train
-station and met with U&H who were travelling for 24 hrs! Then had
-prosecco by the steps and
+In the morning, me and Greg went for a run, Greg knocked on the door of
+the other church since Salute was covered in scaffolding. We hoped to
+come back and shower and rest but there was a vaporetto strike so we
+decided to go to the Academia, then it was high tide time (12:30 noon)
+which meant we had to go to St Mark’s Sq to see the water rising. Then
+since we were there, we might as well go the Biennale which is right
+there by the gardens. Quite the tiring day on our feet. 30k steps!
+
+<img src="Sept20_1.png" style="width:10.0%" alt="Day of 30k steps" />
+
+We went to the train station and met with U&H who were travelling for 24
+hrs! Then had prosecco by the steps and off to bed.
 
 ### 21 September, Venice:
 
-St Mark’s Basilica, then to the other Biennale venue, Arsenal. Went out
-for meal.
+We set off by taking the Tragettho across the Grand Canal. Walk to St
+Mark’s Basilica, quite a queue but moves pretty fast. Once we are in, I
+was obsessed with the mosaic floors. We saw St Mary’s family tree and
+the 4 horses that were brought from Byzantine.
+
+<img src="Sept21_1.png" style="width:10.0%" alt="St Mark’s" />
+
+After the Basilica, we had 2 slices of thick pizza each, icecream and
+then to the other Biennale venue, Arsenal.
+
+<img src="Sept21_2.png" style="width:10.0%" alt="Biennale Day 2" />
+
+Went out for meal.
 
 ### 22 September, Venice to Padua:
 
