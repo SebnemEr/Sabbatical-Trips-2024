@@ -1,11 +1,17 @@
 ---
 title: "Trips to UK, Italy, Spain and US"
 format: 
-  html:
-    self-contained: true
+  gfm:
     toc: true
     code-fold: true
 ---
+
+<!-- format: 
+  html:
+    self-contained: true
+    toc: true
+    code-fold: true -->
+
 
 # UK
 ## Leeds
@@ -31,11 +37,11 @@ This part is very complicated!
 
 Me and Greg arrived in Venice. We left Leeds by bus to Manchester and flew to Venice. Took the Allilaguna line from the airport to the main island:
 
-![At Allilaguna](Sept19_1.png){width=70%}
+![At Allilaguna](images/Sept19_1.png){width=70%}
 
 We had chicetti for dinner by the canal at some steps? Venice at night time is spectacular:
 
-![At Allilaguna](Sept19_2.png){width=70%}
+![At Allilaguna](images/Sept19_2.png){width=70%}
 
 ### 20 September,  Venice:
 
@@ -43,7 +49,7 @@ In the morning, me and Greg went for a run, Greg knocked on the door of the othe
 
 Quite the tiring day on our feet. 30k steps! 
 
-![Day of 30k steps](Sept20_1.png){width=70%}
+![Day of 30k steps](images/Sept20_1.png){width=70%}
 
 We went to the train station and met with U&H who were travelling for 24 hrs! Then had prosecco by the steps and off to bed.
 
@@ -51,12 +57,12 @@ We went to the train station and met with U&H who were travelling for 24 hrs! Th
 
 We set off by taking the Tragettho across the Grand Canal. Walk to St Mark's Basilica, quite a queue but moves pretty fast. Once we are in, I was obsessed with the mosaic floors. We saw St Mary's family tree and the [4 horses](https://en.wikipedia.org/wiki/Horses_of_Saint_Mark#:~:text=The%20Horses%20of%20Saint%20Mark%20(Italian:%20Cavalli%20di%20San%20Marco),) that were brought from the [Hippodrome of Constantinople](https://en.wikipedia.org/wiki/Hippodrome_of_Constantinople). 
 
-![St Mark's](Sept21_1.png){width=70%}
+![St Mark's](images/Sept21_1.png){width=70%}
 
 
 After the Basilica, we had 2 slices of thick pizza each (!), others had ice-cream and then to the other Biennale venue, Arsenal. 
 
-![Biennale Day 2](Sept21_2.png){width=70%}
+![Biennale Day 2](images/Sept21_2.png){width=70%}
 
 Went out for meal. No photos of that on my phone.
 
@@ -64,87 +70,87 @@ Went out for meal. No photos of that on my phone.
 
 In the morning Greg goes for a long run, I take the vaporetto, and meet up with U&H by the coffee shop.
 
-![Early bird gets the worm](Sept22_1.png){width=70%}
+![Early bird gets the worm](images/Sept22_1.png){width=70%}
 
 After check-out we leave by train to Padua. We arrive in Padua, walk around the market, and arrive at our Palazo. Beautiful place. We are starving so we had some bread, cheese, tomato, wine.
 
-![To Padua](Sept22_2.png){width=70%}
+![To Padua](images/Sept22_2.png){width=70%}
 
 Greg organised us to see Giotto's famous work at Cappella degli Scrovegni.
 
-![Scrovegni Chapel](Sept22_3.png){width=70%}
+![Scrovegni Chapel](images/Sept22_3.png){width=70%}
 
 In the evening, we go out for Greg's birthday dinner. Nice place, nice wine and nice meal. I don't actually have many photos from the dinner, sadly.
 
-![Greg's choice for birthday dinner](Sept22_4.png){width=70%}
+![Greg's choice for birthday dinner](images/Sept22_4.png){width=70%}
 
 
 ### 23 September, Padua to Ravenna for me and Greg, to Bologna for U&H.
 
 Wake up in Padua. Me and Greg go for a run, then meet with U&H for coffee downstairs. We met Francesca, the owner, the mother of Alessandro, and daughter of the owner of the place we stay.
 
-![Padua circle](Sept23_1.png){width=70%}
+![Padua circle](images/Sept23_1.png){width=70%}
 
 Then we set off for a stroll, Greg is cross with me and U for going into Mango and shopping!!! See Mango pic for the Mango incident. Greg actually wanted to go to the [Palazzo della Ragione](https://en.wikipedia.org/wiki/Palazzo_della_Ragione,_Padua#:~:text=The%20Palazzo%20della%20Ragione%20is%20a%20medieval%20market%20hall,%20town#:~:text=The%20Palazzo%20della%20Ragione%20is%20a%20medieval%20market%20hall,%20town). We have been there before btw. Anyway, he sets off only to find out that it is closed. Now what do we do! Eat food and icecream since we are there.
 
-![Meandering in Padua streets via Mango](Sept23_2.png){width=70%}
+![Meandering in Padua streets via Mango](images/Sept23_2.png){width=70%}
 
 The owners of the place were kind to let us leave our bags until 1pm or something. We were packed. So we go and collect our bags and off to Padua train station to say goodbye to U&H and me and Greg hire a car from Alemo and drive to Ravenna, the town of mosaics. 
 
-![Ravenna mosaics](mosaicsRavenna_1.jpg){width=60%}
+![Ravenna mosaics](images/mosaicsRavenna_1.jpg){width=60%}
 
-![Ravenna mosaics](mosaicsRavenna_2.jpg){width=60%}
+![Ravenna mosaics](images/mosaicsRavenna_2.jpg){width=60%}
 
 We are staying at Casa Masoli, very nice place.
 
-![Casa Masoli](casamasoliRavenna.jpg){width=60%}
+![Casa Masoli](images/casamasoliRavenna.jpg){width=60%}
 
 We first visit [𝗖𝗔𝗣𝗣𝗘𝗟𝗟𝗔 𝗔𝗥𝗖𝗜𝗩𝗘𝗦𝗖𝗢𝗩𝗜𝗟𝗘 - 𝗢 𝗗𝗜 𝗦𝗔𝗡𝗧'𝗔𝗡𝗗𝗥𝗘𝗔](https://maps.app.goo.gl/NYama9ZwUsEFTdPX7)
 
-![Ravenna Arcivescovile - a Byzantine chapel with elaborate mosaics](Sept23_3.png){width=70%}
+![Ravenna Arcivescovile - a Byzantine chapel with elaborate mosaics](images/Sept23_3.png){width=70%}
 
 A great video can be seen on [Youtube](https://youtu.be/ekB1NeKtDX4?si=55l1WBVh2qWxIKZH).
 
 From there we visited the [Basilica of St Vitale](https://en.wikipedia.org/wiki/Basilica_of_San_Vitale). I am super impressed with this one. It looks gorgeous from outside, and resembles Ayasofya.
 
-![Ravenna Basilica of St Vitale](Sept23_4.png){width=70%}
+![Ravenna Basilica of St Vitale](images/Sept23_4.png){width=70%}
 
-![Ravenna Basilica of St Vitale](Sept23_5.png){width=70%}
+![Ravenna Basilica of St Vitale](images/Sept23_5.png){width=70%}
 
 Look at inside of the basilica in this [Youtube video](https://www.youtube.com/watch?v=pytUIajVxGk&t=82s) and of course my collection of crap photos.
 
-![Ravenna Basilica of St Vitale](Sept23_6.png){width=70%}
+![Ravenna Basilica of St Vitale](images/Sept23_6.png){width=70%}
 
 Then we stroll around, bump into the Basilica di San Francesco beside Dante's tomb, walk in and out, stroll more and end up eating at the Piazza, crap food place. But food was not too bad...
 
-![Ravenna streets](Sept23_7.png){width=70%}
+![Ravenna streets](images/Sept23_7.png){width=70%}
 
 
 ### 24 September, Ravenna to Florence
 
 The next morning we have a very nice breakfast, then check-out and drop bags at the car, pay for 2 more hours which turned out to be 4 more hours. Then we head down to the city center for more. First the [Arian Baptistery](https://en.wikipedia.org/wiki/Arian_Baptistery).
 
-![Ravenna Arian Baptistery](Sept24_1.png){width=70%}
+![Ravenna Arian Baptistery](images/Sept24_1.png){width=70%}
 
 Great [Youtube video again](https://www.youtube.com/watch?v=WQBS2ZxOBnQ&t=4s).
 
 Jeez, this Ravenna has soooo much to see and digest! Another place is the [Basilica di Sant'Apollinare Nuovo](https://it.wikipedia.org/wiki/Basilica_di_Sant%27Apollinare_Nuovo). So crazy!
 
-![Ravenna Basilica di Sant'Apollinare Nuovo](Sept24_2.png){width=70%}
+![Ravenna Basilica di Sant'Apollinare Nuovo](images/Sept24_2.png){width=70%}
 
 Then we drive to Florence. 
 
-![Ravenna to Florence](Sept24_3.png){width=50%}
+![Ravenna to Florence](images/Sept24_3.png){width=50%}
 
 Immediately set off to meet with others. First we see the  Gates of Paradise, the main gate of the Baptistry of Florence (Battistero di San Giovanni), located in front of the Cathedral of Santa Maria del Fiore. [Porta del Paradiso](https://www.florenceinferno.com/gates-of-paradise/).
 
 Then we meet up with U, H & Mary and stroll around after buying our tickets. We stroll through to the river.
 
-![Florence](Sept24_3.png){width=60%}
+![Florence](images/Sept24_3.png){width=60%}
 
 And we end up having dinner at a very nice place. Some icecream and music and back to our place with Henry's bags. Henry comes tomorrow once U&M leave for Sicily.
 
-![Florence evening](Sept24_4.png){width=60%}
+![Florence evening](images/Sept24_4.png){width=60%}
 
 ### 25 September, Florence full day
 
@@ -152,42 +158,42 @@ Me and Greg take the tram, quite the rushed one, since we are a few min late. Bu
 
 We see Donatello's David and other sculptures.
 
-![Bargello](Sept25_1.png){width=60%}
+![Bargello](images/Sept25_1.png){width=60%}
 
-![Bargello](Sept25_2.png){width=60%}
+![Bargello](images/Sept25_2.png){width=60%}
 
 
 There is so much to see in this place but my favourite is the [Flying Mercury by Giambologna](https://www.visit-florence-italy.com/museums/bargello/giambologna-bargello-florence-italy.html).
 
-![Flying Mercury](Sept25_3.png){width=70%}
+![Flying Mercury](images/Sept25_3.png){width=70%}
 
 The Bargello Museum had many floors with interesting artefacts, even from Turkey.
 
 Then we said goodbye to U&M at the piazza. We couldn't go to the Dome or the actual David, since tickets were sold out but we climbed up the stairs of the Cathedral.
 
-![Tower](Sept25_4.png){width=60%}
+![Tower](images/Sept25_4.png){width=60%}
 
 Inside actual cathedral, we saw many tombs and monuments and more frescos and things.
 
-![Cathedral](Sept25_5.png){width=60%}
+![Cathedral](images/Sept25_5.png){width=60%}
 
 We moved onto the Pazzi Chapel ([Capella di Pazzi](https://www.santacroceopera.it/luoghi/chiostri/cappella-pazzi/)). Here is a great [Youtube video](https://www.youtube.com/watch?v=Xemmv07O9yc) about the architecture.
 
-![Pazzi Chapel](Sept25_6.png){width=60%}
+![Pazzi Chapel](images/Sept25_6.png){width=60%}
 
 From there we moved to [Uffizi Gallery](https://www.uffizi.it/en/the-uffizi). I have tons of photos. But most striking one is the actual Medici Venus we saw in UK. These are extremely good sculptures, good quality marble, extreme talent.
 
-![Uffizi 1](Sept25_7.png){width=60%}
+![Uffizi 1](images/Sept25_7.png){width=60%}
 
-![Uffizi 2](Sept25_8.png){width=60%}
+![Uffizi 2](images/Sept25_8.png){width=60%}
 
-![Uffizi 3](Sept25_9.png){width=60%}
+![Uffizi 3](images/Sept25_9.png){width=60%}
 
 There is so many, but cannot add them all here.
 
 Then we exhausted people walk home with the hope that we will cook and eat and sleep quickly. Except we couldn't work the stove top electric genius device. Ah well, all it needed was a reboot!
 
-![Exhausted art chasers](Sept25_10.png){width=60%}
+![Exhausted art chasers](images/Sept25_10.png){width=60%}
 
 ### 26 September, Florence to Parma
 
@@ -195,15 +201,15 @@ We leave our place after some breakfast. We drive to Parma, quite windy roads, H
 
 Then we walked to the city center and go to Piazza Duomo Parma where the [Baptistery](https://www.piazzaduomoparma.com/en/the-square/baptistery/) and the [Cathedral](https://en.wikipedia.org/wiki/Parma_Cathedral) is. The cathedral contains the illusionistic cupola fresco of the Assumption by Corregio. Everywhere we saw these [Correggio500 special](https://www.piazzaduomoparma.com/en/correggio500-special-parma-8-september-2024-31-january-2025/) signs/stickers.
 
-![Parma cathedral](Sept26_1.png){width=60%}
+![Parma cathedral](images/Sept26_1.png){width=60%}
 
 After the cathedral, we visit the Baptistery. Here the months and seasons are interesting.
 
-![Parma baptistery](Sept26_2.png){width=60%}
+![Parma baptistery](images/Sept26_2.png){width=60%}
 
 Then we find a nice place to have dinner. We had to have Lambrusco. Last dinner of the age 40s for Greg. Greg had the Rose of Parma, Henry had something with apple sauce, I had the pistachio pasta with four grain tagliatelle type. We all had desert and all was yummy.
 
-![Parma last dinner of age 40s](Sept26_3.png){width=60%}
+![Parma last dinner of age 40s](images/Sept26_3.png){width=60%}
 
 ### 27 September, Parma to Lago de Como
 
@@ -211,45 +217,45 @@ HAPPY BIRTHDAY TO GREG!
 
 In the morning, me and Greg go for a run in Parma, find some parks.
 
-![Parma happy birthday run](Sept27_1.png){width=60%}
+![Parma happy birthday run](images/Sept27_1.png){width=60%}
 
 Then we come back, shower, pack our car (access to the car is super high tech and full of barriers), and check out, then have breakfast. Coffee with croissants.
 
 Then we go to the Proscuiterria and spend a fortune for our sandwiches.
 
-![Parma Proscuiterria](Sept27_2.png){width=60%}
+![Parma Proscuiterria](images/Sept27_2.png){width=60%}
 
 Then we eat our sandwiches in the park. Greg goes off to search for his Christmas time deserty cake. No luck.
 
 We set off to drive to Como. We arrive at 3-4pm I think. We go for a walk, wow what a magical place! We walk to the Big Bench, the viewing points etc.
 
-![Como](Sept27_3.png){width=60%}
+![Como](images/Sept27_3.png){width=60%}
 
-![Como stroll](Sept27_4.png){width=60%}
+![Como stroll](images/Sept27_4.png){width=60%}
 
 Birthday dinner was delicious but not sure of the place.
 
-![Como birthday dinner](Sept27_5.png){width=60%}
+![Como birthday dinner](images/Sept27_5.png){width=60%}
 
 ### 28 September, Como full day
 
 In the morning, we went to Bellagio city center. Visited the Palace by the water.
 
-![Como Bellagio](Sept28_1.png){width=60%}
+![Como Bellagio](images/Sept28_1.png){width=60%}
 
 Then we took the ferry to the other busy town. Wow busy is a small word. Cannot imagine this place in summer when schools are on holiday.
 
-![Como ferry](Sept28_2.png){width=60%}
+![Como ferry](images/Sept28_2.png){width=60%}
 
 In the evening me and Greg went to see the Cycling Museum and the Church. And came home to progress on our giant Lambrusco bottle. Food cooked at home too. Pasta is super easy!
 
-![Como goodbye](Sept28_3.png){width=60%}
+![Como goodbye](images/Sept28_3.png){width=60%}
 
 ### 29 September, Como to Millan and from Milan to CT and to Spain for me.
 
-In the morning, me and Greg went to see the sunrise to the viewing point. Leaving eachother again today.
+In the morning, me and Greg went to see the sunrise to the viewing point. Leaving eachother again today. We drive to Milan, leave the car at the airport and G&H to CT and me to Valencia.
 
-![Falling apart again](Sept29_1.png){width=60%}
+![Falling apart again](images/Sept29_1.png){width=60%}
 
 And I take the buses to travel to Valencia. I choose a night time bus, horrible. Sat next to the toilet. Yuck. Well will not use the FlixBus again.
 
